@@ -21,3 +21,5 @@ class Question {
 }
 
 Question._All = []
+
+find(2);
